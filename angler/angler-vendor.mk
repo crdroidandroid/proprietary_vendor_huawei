@@ -550,4 +550,5 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/angler/proprietary/vendor/xbin/wlutil:$(TARGET_COPY_OUT_VENDOR)/xbin/wlutil
 
 PRODUCT_PACKAGES += \
+    ims \
     TimeService
